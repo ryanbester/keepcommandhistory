@@ -1,0 +1,13 @@
+modLoader="javafml"
+loaderVersion="[35,)"
+license="All rights reserved"
+
+[[mods]]
+modId="keepcommandhistory"
+version="1.0.0"
+displayName="Keep Command History"
+displayURL="https://www.ryanbester.com"
+authors="Ryan Bester"
+description='''
+Saves command and chat history when leaving worlds or servers.
+'''

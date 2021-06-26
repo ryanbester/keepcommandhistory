@@ -1,0 +1,10 @@
+{
+  "required": true,
+  "package": "com.ryanbester.keepcommandhistory.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "keepcommandhistory.refmap.json",
+  "mixins": [
+    "MixinNewChatGui"
+  ],
+  "minVersion": "0.8"
+}
