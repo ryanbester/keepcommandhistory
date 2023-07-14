@@ -1,4 +1,4 @@
-package com.ryanbester.keepcommandhistory;
+package com.ryanbester.keepcommandhistory.forge;
 
 import net.minecraftforge.fml.common.Mod;
 
